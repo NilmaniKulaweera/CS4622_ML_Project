@@ -1,3 +1,5 @@
+#### GitHub Link = 
+
 ## Preprocessing and feature engineering techniques used
 
 1. Imputed missing values in below columns using various imputation techniques
@@ -48,4 +50,9 @@
 * score: 0.8223
 * rank: 690
 
+<img width="396" alt="Final_rank" src="https://user-images.githubusercontent.com/47142899/133824911-e0a95570-4886-44bd-8f3c-ee4781a91a2b.PNG">
+
 ## All submissions made
+
+<img width="396" alt="All_submissions" src="https://user-images.githubusercontent.com/47142899/133824964-cec22003-ef54-4752-959b-e73ac332a8ea.PNG">
+
