@@ -1,4 +1,4 @@
-#### GitHub Link = `https://github.com/NilmaniKulaweera/CS4622_ML_Project`
+#### GitHub Link = [https://github.com/NilmaniKulaweera/CS4622_ML_Project]b(https://github.com/NilmaniKulaweera/CS4622_ML_Project)
 
 ## Preprocessing and feature engineering techniques used
 
